@@ -111,7 +111,7 @@ function renderStreamGraph(data, keys) {
 }
 
 
-d3.csv('clinton.csv', function (rawData) {
+d3.csv('./clinton.csv', function (rawData) {
 
   var yearKeys = d3.range(1999, 2018);
 
