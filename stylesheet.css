@@ -48,16 +48,16 @@
     position: relative;
     float: left;
     height: 100%;
-    width: 65%;
-    padding-left: 15px;
-    padding-top: 25px;
+    width: 70%;
+    padding-left: 25px;
+    padding-top: 35px;
 }
 #streamgraph {
   float: none;
   height: auto;
   width: auto;
-  padding-top: 25px;
-  padding-left: 25px;
+  padding-top: 45px;
+  padding-left: 55px;
 }
 #legend{
     position: relative;
