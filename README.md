@@ -1,3 +1,5 @@
 # applied-dataviz-workshop3
 
-Code for the workshop in Lecture 4 of the Applied Dataviz course (Fall 2017)
+Midterm for MAS.S70 at Massachussetts Institute of Technology. Website link: https://shayneobrien.github.io/mass70/
+
+Best viewed on Firefox/Safari.
