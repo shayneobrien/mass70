@@ -1,4 +1,4 @@
-# applied-dataviz-workshop3
+# applied-dataviz
 
 Midterm for MAS.S70 at Massachussetts Institute of Technology. Website link: https://shayneobrien.github.io/mass70/
 
